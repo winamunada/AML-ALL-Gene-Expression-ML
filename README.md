@@ -1,3 +1,5 @@
+# EVALUATING ML MODELS FOR GENE EXPRESSION ANALYSIS IN AML AND ALL CANCER
+
 This project focuses on the analysis of gene expression data to distinguish between Acute Myeloid Leukemia (AML) and Acute Lymphoblastic Leukemia (ALL). Accurate classification and clustering of gene expression profiles can provide significant insights into the molecular mechanisms of these cancers and aid in developing targeted therapies.
 
 # Algorithms Used:
